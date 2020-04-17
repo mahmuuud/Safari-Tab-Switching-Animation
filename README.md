@@ -14,6 +14,4 @@ Library.
   
   * No problem! You can always contact me on https://www.linkedin.com/in/mahmuuud/
   
-# License
-  
-  MIT
+
